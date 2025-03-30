@@ -21,4 +21,4 @@ Improve website performance and accessibility
 Advanced React.js & Redux Toolkit
 
 📫 Let's Connect
-🔗 [Portfolio](https://vishnufd.github.io/vishnu-portfolio/) | 📧 [Email](vishnuanilfrontend@gmail.com) | 
+🔗 [Portfolio](https://vishnufd.github.io/vishnu-portfolio/)
