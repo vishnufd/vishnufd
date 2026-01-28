@@ -4,7 +4,7 @@ I'm a Front-End Developer specializing in React.js, Redux, and Tailwind CSS. I l
 🚀 Skills & Technologies
 Frontend: React.js, Redux, JavaScript, HTML, CSS, Tailwind CSS
 
-Backend (Basic Knowledge): PHP
+Backend (Basic Knowledge)
 
 Other Tools: Git, Figma, Web Performance Optimization
 
